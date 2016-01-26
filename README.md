@@ -16,4 +16,4 @@ Training dataset comprises 10k images in 4 orientations (rotated through 0,90,18
 Test dataset comprises 1k images
 
 
-Assignment for CSCI-B551 (Prof. David Crandall)
+(Assignment for CSCI-B551 Fall 2015)
