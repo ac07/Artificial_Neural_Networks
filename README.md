@@ -1,4 +1,4 @@
-Image Orientation Detection using Artificial Neural Network.
+#Image Orientation Detection using Artificial Neural Network.
 
 Specifics of implementation include:
   
@@ -11,4 +11,5 @@ Specifics of implementation include:
 Training dataset comprises 10k images in 4 orientations (rotated through 0,90,180 and 270 degrees) - up to 40k images
 Test dataset comprises 1k images
 
-- Assignment for CSCI-B551 (Prof. David Crandall)
+
+Assignment for CSCI-B551 (Prof. David Crandall)
